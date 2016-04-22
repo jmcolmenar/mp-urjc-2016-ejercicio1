@@ -10,6 +10,9 @@ package mp;
  * @author Roberto
  */
 public class rperezll {
+    public static void mensaje(){
+        System.out.println("Hola, otra vez.Roberto");
+    }
     public static void main(String[] args) {
         System.out.println("Hola, soy Roberto");
     }
