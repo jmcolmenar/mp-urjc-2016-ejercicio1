@@ -10,7 +10,12 @@ package mp;
  * @author josemanuel.colmenar
  */
 public class PepePerez {
+    
+    public static void mensaje() {
+        System.out.println("Hola otra vez");
+    }
+    
     public static void main(String[] args) {
-        System.out.println("Hola, soy Diego");
+        System.out.println("Hola, soy Pepe");
     }
 }
