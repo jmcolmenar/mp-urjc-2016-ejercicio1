@@ -10,6 +10,10 @@ package mp;
  * @author Sergio
  */
 public class sergiorivas {
+        public static void mensaje(){
+            System.out.println("Hey");
+        }
+        
         public static void main(String[] args) {
             System.out.println("Unbelievable");
         }
