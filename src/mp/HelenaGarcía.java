@@ -14,6 +14,9 @@ public class HelenaGarcía {
     /**
      * @param args the command line arguments
      */
+        public static void Mensaje(){
+            System.out.println("Hola otra vez");
+        }
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola, soy Helena");
