@@ -7,7 +7,7 @@ package mp;
  */
 public class DanielOliver {
     
-    public static void main(String[] args) {
+    public static void mensaje() {
         System.out.println("Hola, soy Oly13");
     }
     
