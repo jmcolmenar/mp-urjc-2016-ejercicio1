@@ -10,8 +10,11 @@ package mp;
  * @author Luis
  */
 public class Luis {
+    public static void mensaje(){
+        System.out.println("Hola clase");
+    }
     public static void main(String[] args) {
-        System.out.println("Hola, soy Luis y tu ?");
+        System.out.println("Hola, soy Luis");
     }
             
 }
