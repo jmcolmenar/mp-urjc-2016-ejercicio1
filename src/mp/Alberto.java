@@ -19,4 +19,7 @@ public class Alberto {
         System.out.println("Hola, soy Alberto");
     }
     
+    public static void mensaje(){
+        System.out.println("Hola again");
+    }
 }
