@@ -11,4 +11,8 @@ public class JakubJanLuczyn {
         System.out.println("Hola, no soy Chema");
     }
     
+    public static void escribirMensaje(){
+        System.out.println("Soy Jakub Luczyn");
+    }
+    
 }
