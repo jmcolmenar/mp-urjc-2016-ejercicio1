@@ -10,7 +10,11 @@ package mp;
  * @author Alex
  */
 public class AlexGomez {
+    public  static void mensaje(){
+        System.out.println("AÚPA");
+    }
     public static void main(String args[]){
         System.out.println("¡AÚPA ATLETI!");
+        mensaje();
     }
 }
