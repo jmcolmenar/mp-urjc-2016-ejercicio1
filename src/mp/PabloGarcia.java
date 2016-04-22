@@ -13,7 +13,15 @@ public class PabloGarcia {
 
     public static void main(String[] args) {
         
-        System.out.println("              ,---. \n" +
+
+        
+        System.out.println("Hola, soy Pablo");
+        mensaje();
+    }
+
+    public static void mensaje(){
+        
+                System.out.println("              ,---. \n" +
 "            ,.'-.   \\ \n" +
 "           ( ( ,'\"\"\"\"\"-. \n" +
 "           `,X          `. \n" +
@@ -36,7 +44,5 @@ public class PabloGarcia {
 "         '  `-.   `'    \\/\\`.   `.    ) \n" +
 "               \\           \\ `.  |    | ");
         
-        System.out.println("Hola, soy Pablo");
     }
-
 }
