@@ -14,6 +14,9 @@ public class JorgeSanchez {
     /**
      * @param args the command line arguments
      */
+    public static void mensaje(){
+        System.out.println("Hola chachudo");
+    }
     public static void main(String[] args) {
         System.out.println("Hola chacho");
     }
