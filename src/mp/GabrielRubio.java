@@ -18,5 +18,8 @@ public class GabrielRubio {
         // TODO code application logic here
         System.out.println("Hola, soy Gabriel");
     }
+    public static void mensaje(){
+        System.out.println("Hola otra vez");
+    }
     
 }
