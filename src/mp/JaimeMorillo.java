@@ -10,6 +10,9 @@ package mp;
  * @author Jaime
  */
 public class JaimeMorillo {
+    public static void mensaje() {
+        System.out.println("Me llamo Jaime, jaja Saludos");
+    }
     public static void main(String [] args){
         System.out.println("Forza Atleti");
     }
